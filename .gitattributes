@@ -1,0 +1,20 @@
+# Set default line endings for text files to LF
+* text=auto eol=lf
+
+# Mark specific file types as binary
+*.wasm binary
+*.jpg binary
+*.png binary
+*.gif binary
+*.webp binary
+
+# Explicitly ensure coding and text files use LF
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.ps1 text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
