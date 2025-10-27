@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "0.1.0",
   "description": "Backend for AWS Lottery Application",
-  "author": "Adam",
+  "author": "Adam Burucs",
   "private": true,
   "license": "MIT",
   "scripts": {
